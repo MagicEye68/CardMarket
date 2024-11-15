@@ -52,7 +52,7 @@ Un sistema distribuito per la gestione di un sito di vendita di carte da gioco, 
 | admin@gmail.com   | Test1234!  |
 
 
-## Architettura
+## 🏗️ Architettura
 | Producer       | Consumer              |
 |----------------|-----------------------|
 | annunci        | inserzioni, utenti    |
@@ -60,4 +60,45 @@ Un sistema distribuito per la gestione di un sito di vendita di carte da gioco, 
 | pagamenti      | annunci               |
 | transazioni    | pagamenti             |
 | autenticazione | utenti                |
+
+---
+
+## 📂 Microservizi
+
+### 1. Annunci
+- **Aggiunta Carta** (Admin)
+- **Ricerca di una carta** tramite stringa
+- **Aggiunta Inserzione**
+- **Rimozione Inserzione**
+- **Ricerca Inserzione** tramite:
+  - Carta
+  - Carta e rarità
+  - ID utente
+- **Aggiunta Rarità** (Admin)
+- **Ricerca Rarità**
+
+---
+
+### 2. Transazioni
+- **Aggiunta Pagamento**
+- **Ricerca Pagamenti**:
+  - Dell'utente loggato
+  - Di un utente specifico (Admin)
+  - Tramite metodo di pagamento (Admin)
+  - Tramite stato del pagamento (Admin)
+
+---
+
+### 3. Recensioni
+- **Aggiunta Recensione**
+- **Rimozione Recensione** (solo proprietario o Admin)
+- **Ricerca Recensioni**:
+  - Prodotte da un acquirente
+  - Ricevute da un venditore
+  - Venditori con media voti superiore a una soglia
+
+---
+
+### 4. Autenticazione
+Gestisce l'accesso e il controllo degli utenti. È un servizio essenziale per il funzionamento degli altri microservizi.
 
