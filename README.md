@@ -41,7 +41,7 @@ Un sistema distribuito per la gestione di un sito di vendita di carte da gioco, 
 
 3. **Accesso e autenticazione**
    Collegarsi alla porta dedicata al servizio di autenticazione (specificata nel file `docker-compose.yml`). Utilizzare uno degli account predefiniti o crearne uno nuovo.
-| ID                | Password   |
+   | ID                | Password   |
 |-------------------|------------|
 | utente1@gmail.com | Test1234!  |
 | utente2@gmail.com | Test1234!  |
