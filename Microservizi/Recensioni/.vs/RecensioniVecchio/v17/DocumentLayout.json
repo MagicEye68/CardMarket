@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Recensioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\recensionivecchio\\annunci.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Recensioni.Business.csproj|solutionrelative:annunci.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Recensioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\recensionivecchio\\annunci.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Recensioni.Repository.csproj|solutionrelative:annunci.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Recensioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\recensionivecchio\\annunci.repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Recensioni.Repository.csproj|solutionrelative:annunci.repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Recensioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\recensionivecchio\\annunci.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Recensioni.Business.csproj|solutionrelative:annunci.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Recensioni.Api.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\recensionivecchio\\annunci.api\\controllers\\recensionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Recensioni.Api.csproj|solutionrelative:annunci.api\\controllers\\recensionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Recensioni.Api.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\recensionivecchio\\annunci.api\\controllers\\annunciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Recensioni.Api.csproj|solutionrelative:annunci.api\\controllers\\annunciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Repository\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Repository\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Annunci.Repository\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:28:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Repository\\Repository.cs",
+              "RelativeToolTip": "Annunci.Repository\\Repository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwFMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:18:39.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Business\\Abstractions\\IBusiness.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Abstractions\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Business\\Abstractions\\IBusiness.cs",
+              "RelativeToolTip": "Annunci.Business\\Abstractions\\IBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:53:49.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecensioneController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Api\\Controllers\\RecensioneController.cs",
+              "RelativeDocumentMoniker": "Annunci.Api\\Controllers\\RecensioneController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Api\\Controllers\\RecensioneController.cs",
+              "RelativeToolTip": "Annunci.Api\\Controllers\\RecensioneController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:19:09.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Business\\Business.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Business.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Business\\Business.cs",
+              "RelativeToolTip": "Annunci.Business\\Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:56:53.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnnuncioController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Api\\Controllers\\AnnuncioController.cs",
+              "RelativeDocumentMoniker": "Annunci.Api\\Controllers\\AnnuncioController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\RecensioniVecchio\\Annunci.Api\\Controllers\\AnnuncioController.cs",
+              "RelativeToolTip": "Annunci.Api\\Controllers\\AnnuncioController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:43:52.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

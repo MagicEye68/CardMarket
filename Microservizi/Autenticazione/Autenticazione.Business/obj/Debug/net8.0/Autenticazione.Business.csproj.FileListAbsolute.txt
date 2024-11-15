@@ -1,0 +1,5 @@
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Business\obj\Debug\net8.0\Autenticazione.Business.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Business\obj\Debug\net8.0\Autenticazione.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Business\obj\Debug\net8.0\Autenticazione.Business.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Business\obj\Debug\net8.0\Autenticazione.Business.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Business\obj\Debug\net8.0\Autenticazione.Business.csproj.CoreCompileInputs.cache

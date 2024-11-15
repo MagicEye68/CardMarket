@@ -1,0 +1,17 @@
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\bin\Debug\net8.0\Annunci.Business.deps.json
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\bin\Debug\net8.0\Annunci.Business.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\bin\Debug\net8.0\Annunci.Business.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\bin\Debug\net8.0\Annunci.Repository.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\bin\Debug\net8.0\Annunci.Shared.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\bin\Debug\net8.0\Annunci.Repository.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\bin\Debug\net8.0\Annunci.Shared.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\Annunci.Business.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\Annunci.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\Annunci.Business.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\Annunci.Business.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\Annunci.Business.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\Annunci..9A051EC7.Up2Date
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\Annunci.Business.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\refint\Annunci.Business.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\Annunci.Business.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Business\obj\Debug\net8.0\ref\Annunci.Business.dll

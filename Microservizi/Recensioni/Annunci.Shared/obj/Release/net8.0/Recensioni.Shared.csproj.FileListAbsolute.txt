@@ -1,0 +1,11 @@
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\bin\Release\net8.0\Recensioni.Shared.deps.json
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\bin\Release\net8.0\Recensioni.Shared.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\bin\Release\net8.0\Recensioni.Shared.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\obj\Release\net8.0\Recensioni.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\obj\Release\net8.0\Recensioni.Shared.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\obj\Release\net8.0\Recensioni.Shared.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\obj\Release\net8.0\Recensioni.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\obj\Release\net8.0\Recensioni.Shared.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\obj\Release\net8.0\refint\Recensioni.Shared.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\obj\Release\net8.0\Recensioni.Shared.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Recensioni\Annunci.Shared\obj\Release\net8.0\ref\Recensioni.Shared.dll

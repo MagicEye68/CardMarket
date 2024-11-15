@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Annunci.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Annunci.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Annunci.Api.csproj",
+        "projectName": "Annunci.Api",
+        "projectPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Annunci.Api.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Annunci.Business.csproj": {
+                "projectPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Annunci.Business.csproj"
+              },
+              "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Annunci.Repository.csproj": {
+                "projectPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Annunci.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Annunci.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Annunci.Business.csproj",
+        "projectName": "Annunci.Business",
+        "projectPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Annunci.Business.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Annunci.Repository.csproj": {
+                "projectPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Annunci.Repository.csproj"
+              },
+              "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Shared\\Annunci.Shared.csproj": {
+                "projectPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Shared\\Annunci.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Annunci.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Annunci.Repository.csproj",
+        "projectName": "Annunci.Repository",
+        "projectPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Annunci.Repository.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Shared\\Annunci.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Shared\\Annunci.Shared.csproj",
+        "projectName": "Annunci.Shared",
+        "projectPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Shared\\Annunci.Shared.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

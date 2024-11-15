@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Transazioni.Api.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.api\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Transazioni.Api.csproj|solutionrelative:annunci.api\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|solutionrelative:annunci.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|solutionrelative:annunci.repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\factory\\transactionaloutboxfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\factory\\transactionaloutboxfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.shared\\annunciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|solutionrelative:annunci.shared\\annunciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.shared\\annunciokafkadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|solutionrelative:annunci.shared\\annunciokafkadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.shared\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|solutionrelative:annunci.shared\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.shared\\pagamentoinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|solutionrelative:annunci.shared\\pagamentoinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.shared\\pagamentoreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|solutionrelative:annunci.shared\\pagamentoreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\kafka\\kafkatopics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\kafka\\kafkatopics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\kafka\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\kafka\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.repository\\model\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|solutionrelative:annunci.repository\\model\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.repository\\transazionidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|solutionrelative:annunci.repository\\transazionidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.repository\\model\\transactionaloutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|solutionrelative:annunci.repository\\model\\transactionaloutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Transazioni.Api.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Transazioni.Api.csproj|solutionrelative:annunci.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Transazioni.Api.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Transazioni.Api.csproj|solutionrelative:annunci.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.repository\\model\\annuncio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|solutionrelative:annunci.repository\\model\\annuncio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\kafka\\messagehandlers\\utentekafkamessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\kafka\\messagehandlers\\utentekafkamessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\kafka\\messagehandlers\\messagehandlerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\kafka\\messagehandlers\\messagehandlerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\kafka\\messagehandlers\\annunciokafkamessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\kafka\\messagehandlers\\annunciokafkamessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.business\\kafka\\messagehandlers\\abstractmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Transazioni.Business.csproj|solutionrelative:annunci.business\\kafka\\messagehandlers\\abstractmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.shared\\utentekafkadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|solutionrelative:annunci.shared\\utentekafkadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.shared\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C9B139-F50C-4EB4-B324-92D1EA3DDD85}|Annunci.Shared\\Transazioni.Shared.csproj|solutionrelative:annunci.shared\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\transazioni\\annunci.repository\\model\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Transazioni.Repository.csproj|solutionrelative:annunci.repository\\model\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagamentoInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\PagamentoInsertDto.cs",
+              "RelativeDocumentMoniker": "Annunci.Shared\\PagamentoInsertDto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\PagamentoInsertDto.cs",
+              "RelativeToolTip": "Annunci.Shared\\PagamentoInsertDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:33:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Business.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Business.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Business.cs",
+              "RelativeToolTip": "Annunci.Business\\Business.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:19:40.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagamentoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\PagamentoDto.cs",
+              "RelativeDocumentMoniker": "Annunci.Shared\\PagamentoDto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\PagamentoDto.cs",
+              "RelativeToolTip": "Annunci.Shared\\PagamentoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:26:31.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Api\\Controllers\\PagamentoController.cs",
+              "RelativeDocumentMoniker": "Annunci.Api\\Controllers\\PagamentoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Api\\Controllers\\PagamentoController.cs",
+              "RelativeToolTip": "Annunci.Api\\Controllers\\PagamentoController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAHYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:16:14.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnnuncioKafkaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\AnnuncioKafkaDto.cs",
+              "RelativeDocumentMoniker": "Annunci.Shared\\AnnuncioKafkaDto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\AnnuncioKafkaDto.cs",
+              "RelativeToolTip": "Annunci.Shared\\AnnuncioKafkaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:36:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnnuncioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\AnnuncioDto.cs",
+              "RelativeDocumentMoniker": "Annunci.Shared\\AnnuncioDto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\AnnuncioDto.cs",
+              "RelativeToolTip": "Annunci.Shared\\AnnuncioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:34:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionalOutboxFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Factory\\TransactionalOutboxFactory.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Factory\\TransactionalOutboxFactory.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Factory\\TransactionalOutboxFactory.cs",
+              "RelativeToolTip": "Annunci.Business\\Factory\\TransactionalOutboxFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:18.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Abstractions\\IBusiness.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Abstractions\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Abstractions\\IBusiness.cs",
+              "RelativeToolTip": "Annunci.Business\\Abstractions\\IBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:17.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Repository.cs",
+              "RelativeToolTip": "Annunci.Repository\\Repository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:19:38.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Annunci.Repository\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:34:00.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagamentoReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\PagamentoReadDto.cs",
+              "RelativeDocumentMoniker": "Annunci.Shared\\PagamentoReadDto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\PagamentoReadDto.cs",
+              "RelativeToolTip": "Annunci.Shared\\PagamentoReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:28:03.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KafkaTopics.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\KafkaTopics.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Kafka\\KafkaTopics.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\KafkaTopics.cs",
+              "RelativeToolTip": "Annunci.Business\\Kafka\\KafkaTopics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:44.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\ProducerService.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Kafka\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\ProducerService.cs",
+              "RelativeToolTip": "Annunci.Business\\Kafka\\ProducerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:50.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Model\\Pagamento.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Model\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Model\\Pagamento.cs",
+              "RelativeToolTip": "Annunci.Repository\\Model\\Pagamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:26:20.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransazioniDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\TransazioniDbContext.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\TransazioniDbContext.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\TransazioniDbContext.cs",
+              "RelativeToolTip": "Annunci.Repository\\TransazioniDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:26:16.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionalOutbox.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Model\\TransactionalOutbox.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Model\\TransactionalOutbox.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Model\\TransactionalOutbox.cs",
+              "RelativeToolTip": "Annunci.Repository\\Model\\TransactionalOutbox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:34:16.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Annunci.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Api\\Dockerfile",
+              "RelativeToolTip": "Annunci.Api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T10:40:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Annunci.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Api\\Program.cs",
+              "RelativeToolTip": "Annunci.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:14.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Annuncio.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Model\\Annuncio.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Model\\Annuncio.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Model\\Annuncio.cs",
+              "RelativeToolTip": "Annunci.Repository\\Model\\Annuncio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:34:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UtenteKafkaMessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\MessageHandlers\\UtenteKafkaMessageHandler.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Kafka\\MessageHandlers\\UtenteKafkaMessageHandler.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\MessageHandlers\\UtenteKafkaMessageHandler.cs",
+              "RelativeToolTip": "Annunci.Business\\Kafka\\MessageHandlers\\UtenteKafkaMessageHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageHandlerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\MessageHandlers\\MessageHandlerFactory.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Kafka\\MessageHandlers\\MessageHandlerFactory.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\MessageHandlers\\MessageHandlerFactory.cs",
+              "RelativeToolTip": "Annunci.Business\\Kafka\\MessageHandlers\\MessageHandlerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:35.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnnuncioKafkaMessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\MessageHandlers\\AnnuncioKafkaMessageHandler.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Kafka\\MessageHandlers\\AnnuncioKafkaMessageHandler.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\MessageHandlers\\AnnuncioKafkaMessageHandler.cs",
+              "RelativeToolTip": "Annunci.Business\\Kafka\\MessageHandlers\\AnnuncioKafkaMessageHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:34.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AbstractMessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\MessageHandlers\\AbstractMessageHandler.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Kafka\\MessageHandlers\\AbstractMessageHandler.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Business\\Kafka\\MessageHandlers\\AbstractMessageHandler.cs",
+              "RelativeToolTip": "Annunci.Business\\Kafka\\MessageHandlers\\AbstractMessageHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:27.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UtenteKafkaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\UtenteKafkaDto.cs",
+              "RelativeDocumentMoniker": "Annunci.Shared\\UtenteKafkaDto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\UtenteKafkaDto.cs",
+              "RelativeToolTip": "Annunci.Shared\\UtenteKafkaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:36:22.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UtenteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\UtenteDto.cs",
+              "RelativeDocumentMoniker": "Annunci.Shared\\UtenteDto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\UtenteDto.cs",
+              "RelativeToolTip": "Annunci.Shared\\UtenteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:36:17.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Model\\Utente.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Model\\Utente.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Repository\\Model\\Utente.cs",
+              "RelativeToolTip": "Annunci.Repository\\Model\\Utente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:34:18.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

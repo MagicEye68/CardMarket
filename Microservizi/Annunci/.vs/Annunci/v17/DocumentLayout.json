@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Annunci.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\annunci\\annunci.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Annunci.Business.csproj|solutionrelative:annunci.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Annunci.Business.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\annunci\\annunci.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07054E9-823C-4366-96BF-3BCB4458F5E9}|Annunci.Business\\Annunci.Business.csproj|solutionrelative:annunci.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Annunci.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\annunci\\annunci.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Annunci.Repository.csproj|solutionrelative:annunci.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Annunci.Api.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\annunci\\annunci.api\\controllers\\raritacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Annunci.Api.csproj|solutionrelative:annunci.api\\controllers\\raritacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Annunci.Api.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\annunci\\annunci.api\\controllers\\cartacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Annunci.Api.csproj|solutionrelative:annunci.api\\controllers\\cartacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Annunci.Repository.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\annunci\\annunci.repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2151359-F2B7-4BAD-A2B9-AF26D671BFF3}|Annunci.Repository\\Annunci.Repository.csproj|solutionrelative:annunci.repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Annunci.Api.csproj|c:\\users\\utente\\desktop\\microservizi\\progetto\\microservizi\\annunci\\annunci.api\\controllers\\inserzionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5C4D80-7B6F-4612-9943-1E6F5C67DAA8}|Annunci.Api\\Annunci.Api.csproj|solutionrelative:annunci.api\\controllers\\inserzionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaritaController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Controllers\\RaritaController.cs",
+              "RelativeDocumentMoniker": "Annunci.Api\\Controllers\\RaritaController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Controllers\\RaritaController.cs",
+              "RelativeToolTip": "Annunci.Api\\Controllers\\RaritaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:45:32.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InserzioneController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Controllers\\InserzioneController.cs",
+              "RelativeDocumentMoniker": "Annunci.Api\\Controllers\\InserzioneController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Controllers\\InserzioneController.cs",
+              "RelativeToolTip": "Annunci.Api\\Controllers\\InserzioneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:40:42.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Abstractions\\IBusiness.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Abstractions\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Abstractions\\IBusiness.cs",
+              "RelativeToolTip": "Annunci.Business\\Abstractions\\IBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:02:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Annunci.Repository\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:00:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Annunci.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Repository\\Repository.cs",
+              "RelativeToolTip": "Annunci.Repository\\Repository.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAgwG4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:55:36.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartaController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Controllers\\CartaController.cs",
+              "RelativeDocumentMoniker": "Annunci.Api\\Controllers\\CartaController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Api\\Controllers\\CartaController.cs",
+              "RelativeToolTip": "Annunci.Api\\Controllers\\CartaController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:51:31.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Business.cs",
+              "RelativeDocumentMoniker": "Annunci.Business\\Business.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Annunci\\Annunci.Business\\Business.cs",
+              "RelativeToolTip": "Annunci.Business\\Business.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAwMUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:52:22.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

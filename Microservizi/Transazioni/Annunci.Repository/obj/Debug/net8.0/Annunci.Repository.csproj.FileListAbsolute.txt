@@ -1,0 +1,12 @@
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\bin\Debug\net8.0\Annunci.Repository.deps.json
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\bin\Debug\net8.0\Annunci.Repository.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\bin\Debug\net8.0\Annunci.Repository.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\Annunci.Repository.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\Annunci.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\Annunci.Repository.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\Annunci.Repository.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\Annunci.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\Annunci.Repository.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\refint\Annunci.Repository.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\Annunci.Repository.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Annunci\Annunci.Repository\obj\Debug\net8.0\ref\Annunci.Repository.dll

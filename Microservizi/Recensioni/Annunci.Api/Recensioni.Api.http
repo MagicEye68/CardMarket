@@ -1,0 +1,6 @@
+@Recensioni.Api_HostAddress = http://localhost:5009
+
+GET {{Recensioni.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

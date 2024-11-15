@@ -1,0 +1,6 @@
+@Annunci.Api_HostAddress = http://localhost:5005
+
+GET {{Annunci.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

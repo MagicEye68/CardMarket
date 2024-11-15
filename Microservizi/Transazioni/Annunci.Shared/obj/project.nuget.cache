@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vD3DlzDqZvqBV2+uVFmSrEq7M4SnfNM3kxSGn2B8VxtGax5RszzScIAlH6j7PttxqGAlypUwghqn3mGnKVtNyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\Microservizi\\Progetto\\Microservizi\\Transazioni\\Annunci.Shared\\Transazioni.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utente\\.nuget\\packages\\confluent.kafka\\2.4.0\\confluent.kafka.2.4.0.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\librdkafka.redist\\2.4.0\\librdkafka.redist.2.4.0.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

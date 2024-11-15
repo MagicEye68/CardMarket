@@ -1,0 +1,12 @@
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\bin\Debug\net8.0\Autenticazione.Shared.deps.json
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\bin\Debug\net8.0\Autenticazione.Shared.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\bin\Debug\net8.0\Autenticazione.Shared.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\Autenticazione.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\Autenticazione.Shared.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\Autenticazione.Shared.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\Autenticazione.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\Autenticazione.Shared.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\refint\Autenticazione.Shared.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\Autenticazione.Shared.pdb
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\ref\Autenticazione.Shared.dll
+C:\Users\Utente\Desktop\Microservizi\Progetto\Microservizi\Autenticazione\Autenticazione.Shared\obj\Debug\net8.0\Autenticazione.Shared.csproj.AssemblyReference.cache

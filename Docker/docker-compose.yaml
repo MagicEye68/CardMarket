@@ -1,0 +1,128 @@
+version: '3.4'
+
+services:
+  mssql-server:
+    image: "mcr.microsoft.com/mssql/server:2019-latest"
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: Developer
+      MSSQL_SA_PASSWORD: p4ssw0rD
+    ports:
+      - 2433:1433
+    volumes:
+      - "mssql-server:/var/opt/mssql"
+  adminer:
+    image: adminer:4.8.1
+    ports:
+      - 2431:8080
+    environment:
+      TZ: Europe/Rome
+      ADMINER_DEFAULT_SERVER: mssql-server
+   
+  zookeeper:
+    container_name: zookeeper
+    image: 'bitnami/zookeeper:3.9.0'
+    ports:
+      - '2181:2181'
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+  
+  kafka:
+    container_name: kafka
+    image: 'bitnami/kafka:3.1.0'
+    ports:
+      - '9092:9092'
+    environment:
+      - KAFKA_BROKER_ID=1
+      - KAFKA_CFG_LISTENERS=PLAINTEXT://:9092
+      - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://host.docker.internal:9092
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=host.docker.internal:2181
+      - ALLOW_PLAINTEXT_LISTENER=yes
+      - KAFKA_AUTO_CREATE_TOPICS_ENABLE=true
+    depends_on:
+      - zookeeper
+      
+  mssql-init:
+    image: mcr.microsoft.com/mssql-tools
+    depends_on:
+      - mssql-server
+    restart: on-failure
+    volumes:
+      - "../Database:/database"
+    privileged: true
+    command: >
+      bash -c "
+        /opt/mssql-tools/bin/sqlcmd -S mssql-server -U sa -P p4ssw0rD -d master -i /database/annunci.sql &&
+        /opt/mssql-tools/bin/sqlcmd -S mssql-server -U sa -P p4ssw0rD -d master -i /database/autenticazione.sql &&
+        /opt/mssql-tools/bin/sqlcmd -S mssql-server -U sa -P p4ssw0rD -d master -i /database/recensioni.sql &&
+        /opt/mssql-tools/bin/sqlcmd -S mssql-server -U sa -P p4ssw0rD -d master -i /database/transazioni.sql
+      "      
+  annunci:
+    container_name: annunci
+    build:
+      context: ../Microservizi/Annunci
+    depends_on:
+      - mssql-server
+      - kafka
+      - mssql-init
+      - zookeeper
+    restart: on-failure
+    environment:
+      TZ: Europe/Rome
+    volumes:
+      - "./configurations/appsettings_Annunci.json:/app/appsettings.json:ro"
+    ports:
+      - 9090:8080
+      
+  transazioni:
+    container_name: transazioni
+    build:
+      context: ../Microservizi/Transazioni
+    depends_on:
+      - mssql-server
+      - kafka
+      - mssql-init
+      - zookeeper
+    restart: on-failure
+    environment:
+      TZ: Europe/Rome
+    volumes:
+      - "./configurations/appsettings_Transazioni.json:/app/appsettings.json:ro"
+    ports:
+      - 9190:8080
+
+  recensioni:
+    container_name: recensioni
+    build:
+      context: ../Microservizi/Recensioni
+    depends_on:
+      - mssql-server
+      - kafka
+      - mssql-init
+      - zookeeper
+    restart: on-failure
+    environment:
+      TZ: Europe/Rome
+    volumes:
+      - "./configurations/appsettings_Recensioni.json:/app/appsettings.json:ro"
+    ports:
+      - 9290:8080
+      
+  autenticazione:
+    container_name: autenticazione
+    build:
+      context: ../Microservizi/Autenticazione
+    depends_on:
+      - mssql-server
+      - kafka
+      - mssql-init
+      - zookeeper
+    restart: on-failure
+    environment:
+      TZ: Europe/Rome
+    volumes:
+      - "./configurations/appsettings_Autenticazione.json:/app/appsettings.json:ro"
+    ports:
+      - 9255:8080
+volumes:
+  mssql-server:
