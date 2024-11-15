@@ -1,4 +1,4 @@
-# Progetto di Vendita Carte da Gioco
+# Progetto CardMarket
 
 Un sistema distribuito per la gestione di un sito di vendita di carte da gioco, progettato per offrire funzionalità di gestione annunci, pagamenti, recensioni e autenticazione utenti, utilizzando un'architettura a microservizi e Kafka per la comunicazione tra i servizi.
 
@@ -31,10 +31,30 @@ Un sistema distribuito per la gestione di un sito di vendita di carte da gioco, 
 ## 🛠️ Installazione
 
 1. **Scarica il progetto**  
-   Estrarre il contenuto del file `.zip` in una directory di lavoro.
+   Estrarre il contenuto della repository in una directory di lavoro.
 
 2. **Avviare i microservizi**  
    Aprire un terminale nella directory `Docker` ed eseguire i comandi:
    ```bash
    docker compose build
    docker compose up -d
+
+3. **Accesso e autenticazione**
+   Collegarsi alla porta dedicata al servizio di autenticazione (specificata nel file `docker-compose.yml`). Utilizzare uno degli account predefiniti o crearne uno nuovo.
+| ID                | Password   |
+|-------------------|------------|
+| utente1@gmail.com | Test1234!  |
+| utente2@gmail.com | Test1234!  |
+| utente3@gmail.com | Test1234!  |
+| admin@gmail.com   | Test1234!  |
+
+
+## Architettura
+| Producer       | Consumer              |
+|----------------|-----------------------|
+| annunci        | inserzioni, utenti    |
+| recensioni     | utenti                |
+| pagamenti      | annunci               |
+| transazioni    | pagamenti             |
+| autenticazione | utenti                |
+
